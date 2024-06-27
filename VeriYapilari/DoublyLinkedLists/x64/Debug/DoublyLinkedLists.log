@@ -1,0 +1,4 @@
+﻿  DoublyLinkedList.cpp
+C:\Users\rsl37\source\repos\VeriYapilari\DoublyLinkedLists\DoublyLinkedList.cpp(142,10): warning C4553: '==': ifade sonucu kullanılmıyor; '=' kullanmak mı istediniz?
+C:\Users\rsl37\source\repos\VeriYapilari\DoublyLinkedLists\DoublyLinkedList.cpp(143,9): warning C4553: '==': ifade sonucu kullanılmıyor; '=' kullanmak mı istediniz?
+  DoublyLinkedLists.vcxproj -> C:\Users\rsl37\source\repos\VeriYapilari\x64\Debug\DoublyLinkedLists.exe

@@ -1,0 +1,3 @@
+﻿  Graphs.cpp
+C:\Users\rsl37\source\repos\VeriYapilari\Graphs\Graphs.cpp(40,19): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Graphs.vcxproj -> C:\Users\rsl37\source\repos\VeriYapilari\x64\Debug\Graphs.exe
